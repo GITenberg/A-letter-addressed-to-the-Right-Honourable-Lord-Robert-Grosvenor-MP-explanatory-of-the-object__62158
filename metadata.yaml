@@ -1,0 +1,25 @@
+_repo: A-letter-addressed-to-the-Right-Honourable-Lord-Robert-Grosvenor-MP-explanatory-of-the-object__62158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Evans, Evan, active 1832
+    gutenberg_agent_id: '51801'
+    url: http://www.gutenberg.org/2009/agents/51801
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Welsh -- England -- Chester'
+- !lcc 'BV'
+- !lcsh 'Societies -- England -- Chester'
+- !lcsh 'Chester Cambrian Society (Chester, England)'
+- GITenberg
+title: "A letter addressed to the Right Honourable Lord Robert Grosvenor, M.P.\r\n\
+  explanatory of the object and design of the Chester Cambrian Society"
+url: http://www.gutenberg.org/ebooks/62158
